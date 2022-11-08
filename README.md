@@ -3,7 +3,7 @@ Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uit
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # Team Lead Visual Thinking 👀💭
-[Teamlead](https://github.com/EmonaSantiago/lose-your-head-team-lead/wiki)
+[Teamlead](https://github.com/EmonaSantiago/lose-your-head-team-lead/wiki) report
 ## Visual Thinking
 ### Teamleiders: 
 Justus(docent) en Emona(2e jaars).
