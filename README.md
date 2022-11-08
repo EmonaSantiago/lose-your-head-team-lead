@@ -2,7 +2,24 @@
 Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Team Lead
+# Team Lead Visual Thinking 👀💭
+[Teamlead]()
+## Visual Thinking
+### Teamleiders: 
+Justus(docent) en Emona(2e jaars).
+
+### Visual thinking TEAM 🤜🤛
+- Isandro
+- Marco
+- Trisjan
+- Ivar
+- Roemer 
+- Eliza 
+- Fouad 
+- Chris
+- Chaan
+
+
 
 
 ## Licentie
